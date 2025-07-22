@@ -1,0 +1,4 @@
+PyQt5>=5.15
+beautifulsoup4>=4.11
+aiohttp>=3.8
+playwright>=1.44
