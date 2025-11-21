@@ -24,10 +24,6 @@ playwright install
 python main.py
 ```
 
-## Screenshot
-
-![screenshot](assets/screenshot.png)
-
 ## License
 
 This project is licensed under the MIT License.
